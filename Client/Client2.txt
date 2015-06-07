@@ -1,0 +1,377 @@
+Creating the node
+dc22.utdallas.edu
+Creation of Client 2is Completed
+Inside the Run block
+Receiver Thread Thread[Thread-4,5,main]
+Sender Thread Thread[main,5,main]
+The state of the node is notready
+notify from Node 2 at 1430454920546 to node0
+Sending a notify message from 2 to node 0
+Requesting
+Sending requests for Object 5
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 58
+** The number of exchanged messages is 7
+Sending Commit requests to Server 5 for Object 5
+Sending Commit requests to Server 6 for Object 5
+Sending Commit requests to Server 7 for Object 5
+Sending commit to 5 asking to perform a write on Object 5
+Sending commit to 6 asking to perform a write on Object 5
+Sending commit to 7 asking to perform a write on Object 5
+** Node 2 Entering the Critical Section  for Object 5 for 1 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 5 at 1430454971972
+Setting node state to ready
+Requesting
+Sending requests for Object 5
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 191
+** The number of exchanged messages is 8
+Sending Commit requests to Server 5 for Object 5
+Sending Commit requests to Server 6 for Object 5
+Sending Commit requests to Server 7 for Object 5
+Sending commit to 5 asking to perform a write on Object 5
+Sending commit to 6 asking to perform a write on Object 5
+Sending commit to 7 asking to perform a write on Object 5
+** Node 2 Entering the Critical Section  for Object 5 for 2 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 5 at 1430454972820
+Setting node state to ready
+Requesting
+Sending requests for Object 4
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 16
+** The number of exchanged messages is 9
+Sending Commit requests to Server 4 for Object 4
+Sending Commit requests to Server 5 for Object 4
+Sending Commit requests to Server 6 for Object 4
+Sending commit to 4 asking to perform a write on Object 4
+Sending commit to 5 asking to perform a write on Object 4
+Sending commit to 6 asking to perform a write on Object 4
+** Node 2 Entering the Critical Section  for Object 4 for 3 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 4 at 1430454973501
+Setting node state to ready
+Requesting
+Sending requests for Object 4
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 45
+** The number of exchanged messages is 10
+Sending Commit requests to Server 4 for Object 4
+Sending Commit requests to Server 5 for Object 4
+Sending Commit requests to Server 6 for Object 4
+Sending commit to 4 asking to perform a write on Object 4
+Sending commit to 5 asking to perform a write on Object 4
+Sending commit to 6 asking to perform a write on Object 4
+** Node 2 Entering the Critical Section  for Object 4 for 4 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 4 at 1430454974098
+Setting node state to ready
+Requesting
+Sending requests for Object 6
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 51
+** The number of exchanged messages is 7
+Sending Commit requests to Server 6 for Object 6
+Sending Commit requests to Server 7 for Object 6
+Sending Commit requests to Server 1 for Object 6
+Sending commit to 6 asking to perform a write on Object 6
+Sending commit to 7 asking to perform a write on Object 6
+Sending commit to 1 asking to perform a write on Object 6
+** Node 2 Entering the Critical Section  for Object 6 for 5 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 6 at 1430454975175
+Setting node state to ready
+Requesting
+Sending requests for Object 3
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 34
+** The number of exchanged messages is 11
+Sending Commit requests to Server 3 for Object 3
+Sending Commit requests to Server 4 for Object 3
+Sending Commit requests to Server 5 for Object 3
+Sending commit to 3 asking to perform a write on Object 3
+Sending commit to 4 asking to perform a write on Object 3
+Sending commit to 5 asking to perform a write on Object 3
+** Node 2 Entering the Critical Section  for Object 3 for 6 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 3 at 1430454975908
+Setting node state to ready
+Requesting
+Sending requests for Object 7
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 21
+** The number of exchanged messages is 11
+Sending Commit requests to Server 1 for Object 7
+Sending Commit requests to Server 2 for Object 7
+Sending Commit requests to Server 7 for Object 7
+Sending commit to 1 asking to perform a write on Object 7
+Sending commit to 2 asking to perform a write on Object 7
+Sending commit to 7 asking to perform a write on Object 7
+** Node 2 Entering the Critical Section  for Object 7 for 7 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 7 at 1430454977220
+Setting node state to ready
+Requesting
+Sending requests for Object 7
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 23
+** The number of exchanged messages is 8
+Sending Commit requests to Server 1 for Object 7
+Sending Commit requests to Server 2 for Object 7
+Sending Commit requests to Server 7 for Object 7
+Sending commit to 1 asking to perform a write on Object 7
+Sending commit to 2 asking to perform a write on Object 7
+Sending commit to 7 asking to perform a write on Object 7
+** Node 2 Entering the Critical Section  for Object 7 for 8 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 7 at 1430454978123
+Setting node state to ready
+Requesting
+Sending requests for Object 1
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 235
+** The number of exchanged messages is 9
+Sending Commit requests to Server 1 for Object 1
+Sending Commit requests to Server 2 for Object 1
+Sending Commit requests to Server 3 for Object 1
+Sending commit to 1 asking to perform a write on Object 1
+Sending commit to 2 asking to perform a write on Object 1
+Sending commit to 3 asking to perform a write on Object 1
+** Node 2 Entering the Critical Section  for Object 1 for 9 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 1 at 1430454979058
+Setting node state to ready
+Requesting
+Sending requests for Object 5
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 43
+** The number of exchanged messages is 9
+Sending Commit requests to Server 5 for Object 5
+Sending Commit requests to Server 6 for Object 5
+Sending Commit requests to Server 7 for Object 5
+Sending commit to 5 asking to perform a write on Object 5
+Sending commit to 6 asking to perform a write on Object 5
+Sending commit to 7 asking to perform a write on Object 5
+** Node 2 Entering the Critical Section  for Object 5 for 10 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 5 at 1430454979988
+Setting node state to ready
+Requesting
+Sending requests for Object 2
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 7
+** The number of exchanged messages is 7
+Sending Commit requests to Server 2 for Object 2
+Sending Commit requests to Server 3 for Object 2
+Sending Commit requests to Server 4 for Object 2
+Sending commit to 2 asking to perform a write on Object 2
+Sending commit to 3 asking to perform a write on Object 2
+Sending commit to 4 asking to perform a write on Object 2
+** Node 2 Entering the Critical Section  for Object 2 for 11 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 2 at 1430454980625
+Setting node state to ready
+Requesting
+Sending requests for Object 1
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 29
+** The number of exchanged messages is 7
+Sending Commit requests to Server 1 for Object 1
+Sending Commit requests to Server 2 for Object 1
+Sending Commit requests to Server 3 for Object 1
+Sending commit to 1 asking to perform a write on Object 1
+Sending commit to 2 asking to perform a write on Object 1
+Sending commit to 3 asking to perform a write on Object 1
+** Node 2 Entering the Critical Section  for Object 1 for 12 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 1 at 1430454981324
+Setting node state to ready
+Requesting
+Sending requests for Object 5
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 213
+** The number of exchanged messages is 9
+Sending Commit requests to Server 5 for Object 5
+Sending Commit requests to Server 6 for Object 5
+Sending Commit requests to Server 7 for Object 5
+Sending commit to 5 asking to perform a write on Object 5
+Sending commit to 6 asking to perform a write on Object 5
+Sending commit to 7 asking to perform a write on Object 5
+** Node 2 Entering the Critical Section  for Object 5 for 13 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 5 at 1430454982429
+Setting node state to ready
+Requesting
+Sending requests for Object 2
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 16
+** The number of exchanged messages is 9
+Sending Commit requests to Server 2 for Object 2
+Sending Commit requests to Server 3 for Object 2
+Sending Commit requests to Server 4 for Object 2
+Sending commit to 2 asking to perform a write on Object 2
+Sending commit to 3 asking to perform a write on Object 2
+Sending commit to 4 asking to perform a write on Object 2
+** Node 2 Entering the Critical Section  for Object 2 for 14 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 2 at 1430454983969
+Setting node state to ready
+Requesting
+Sending requests for Object 2
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 58
+** The number of exchanged messages is 12
+Sending Commit requests to Server 2 for Object 2
+Sending Commit requests to Server 3 for Object 2
+Sending Commit requests to Server 4 for Object 2
+Sending commit to 2 asking to perform a write on Object 2
+Sending commit to 3 asking to perform a write on Object 2
+Sending commit to 4 asking to perform a write on Object 2
+** Node 2 Entering the Critical Section  for Object 2 for 15 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 2 at 1430454984937
+Setting node state to ready
+Requesting
+Sending requests for Object 7
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 7
+** The number of exchanged messages is 12
+Sending Commit requests to Server 1 for Object 7
+Sending Commit requests to Server 2 for Object 7
+Sending Commit requests to Server 7 for Object 7
+Sending commit to 1 asking to perform a write on Object 7
+Sending commit to 2 asking to perform a write on Object 7
+Sending commit to 7 asking to perform a write on Object 7
+** Node 2 Entering the Critical Section  for Object 7 for 16 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 7 at 1430454985695
+Setting node state to ready
+Requesting
+Sending requests for Object 3
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 156
+** The number of exchanged messages is 10
+Sending Commit requests to Server 3 for Object 3
+Sending Commit requests to Server 4 for Object 3
+Sending Commit requests to Server 5 for Object 3
+Sending commit to 3 asking to perform a write on Object 3
+Sending commit to 4 asking to perform a write on Object 3
+Sending commit to 5 asking to perform a write on Object 3
+** Node 2 Entering the Critical Section  for Object 3 for 17 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 3 at 1430454987087
+Setting node state to ready
+Requesting
+Sending requests for Object 6
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 89
+** The number of exchanged messages is 9
+Sending Commit requests to Server 6 for Object 6
+Sending Commit requests to Server 7 for Object 6
+Sending Commit requests to Server 1 for Object 6
+Sending commit to 6 asking to perform a write on Object 6
+Sending commit to 7 asking to perform a write on Object 6
+Sending commit to 1 asking to perform a write on Object 6
+** Node 2 Entering the Critical Section  for Object 6 for 18 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 6 at 1430454987751
+Setting node state to ready
+Requesting
+Sending requests for Object 2
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 84
+** The number of exchanged messages is 10
+Sending Commit requests to Server 2 for Object 2
+Sending Commit requests to Server 3 for Object 2
+Sending Commit requests to Server 4 for Object 2
+Sending commit to 2 asking to perform a write on Object 2
+Sending commit to 3 asking to perform a write on Object 2
+Sending commit to 4 asking to perform a write on Object 2
+** Node 2 Entering the Critical Section  for Object 2 for 19 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 2 at 1430454988566
+Setting node state to ready
+Requesting
+Sending requests for Object 4
+Waiting
+******************************************************************************
+** The time elapsed in reaching critical section is 26
+** The number of exchanged messages is 13
+Sending Commit requests to Server 4 for Object 4
+Sending Commit requests to Server 5 for Object 4
+Sending Commit requests to Server 6 for Object 4
+Sending commit to 4 asking to perform a write on Object 4
+Sending commit to 5 asking to perform a write on Object 4
+Sending commit to 6 asking to perform a write on Object 4
+** Node 2 Entering the Critical Section  for Object 4 for 20 th time ** 
+Leaving Critical Section
+*******************************************************************************
+setting the phase to release
+release from 2 for Object 4 at 1430454989217
+Sending the complete notification to node 0
+Setting node state to ready
+
+
+
+***************** Statisitics of Client 2 *************************************
+Total Number of Messages Received by Client 2 is 202
+Total Number of Messages Sent by Client 2 is 281
+*********************************************************************************************************
