@@ -13,7 +13,7 @@ public class Node extends Thread{
 	int Port;
 	static int nodeNumber;
 	
-	
+	// test
 	public Node(int port) throws UnknownHostException
 	{
 		sethostName();
